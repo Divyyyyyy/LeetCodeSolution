@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
