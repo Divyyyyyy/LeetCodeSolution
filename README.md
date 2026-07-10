@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0735-asteroid-collision) |
 ## Stack
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
