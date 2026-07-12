@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0735-asteroid-collision) |
+| [1480-running-sum-of-1d-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/1929-concatenation-of-array) |
 ## Stack
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
