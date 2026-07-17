@@ -62,14 +62,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
