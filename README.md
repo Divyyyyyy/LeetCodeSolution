@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0860-lemonade-change) |
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
