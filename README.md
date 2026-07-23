@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0057-insert-interval) |
+| [0130-surrounded-regions](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0130-surrounded-regions) |
 | [1672-richest-customer-wealth](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
