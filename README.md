@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0802-find-eventual-safe-states) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
