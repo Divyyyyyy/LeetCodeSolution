@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
