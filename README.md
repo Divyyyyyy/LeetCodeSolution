@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/1929-concatenation-of-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -160,4 +162,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
