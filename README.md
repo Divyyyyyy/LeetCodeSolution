@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0704-binary-search) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
