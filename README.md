@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0802-find-eventual-safe-states) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyyyyyy/LeetCodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
